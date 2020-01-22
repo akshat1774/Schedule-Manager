@@ -1,0 +1,2 @@
+# Schedule-Manager
+As the name suggests Schedule Manager keeps the record of your schedule. Through this platform you can write, edit or delete your schedule. You can also view your schedule on a particular date or just view the entire schedule you have written. It also provides a feature that shows you a calender upto six months from the current date so that you can refer to dates and their respective days. Thus, you can never miss out any important schedule and complete your work in time.
